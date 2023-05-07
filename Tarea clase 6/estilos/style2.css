@@ -1,0 +1,8 @@
+p{
+    color: green;
+}
+table{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
